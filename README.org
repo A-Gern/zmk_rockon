@@ -1,0 +1,15 @@
+* ZMK Rockon
+** Background
+Cheap mimickry of FingerPunch, with maybe some edits...
+
+*** Repo:
+https://github.com/sadekbaroudi/zmk-config-fp-example
+
+*** Changes to include your board's build:
+https://github.com/sadekbaroudi/zmk-config-fp-example/commit/c010de30591740a806e2babeefca2888ca366687
+
+** Progress
+*** Software Dvorak vs Firmware Dvorak
+- Nice thing about software dvorak is QWERTY keys are 'labelled' if needed... 
+- On Unconfigured machine (uncommon) firmware dvorak is there..
+- Software dvorak may require more work for finding symbol for dvorak 
