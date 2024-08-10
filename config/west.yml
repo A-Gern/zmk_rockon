@@ -24,4 +24,4 @@ manifest:
     #   import: app/west.yml
   self:
     path: config
-    import: deps.yml
+    #import: deps.yml
