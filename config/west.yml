@@ -16,7 +16,7 @@ manifest:
     - name: chiptuner-zmk-module
       remote: petejohanson
       revision: main
-      - name: zmk-fingerpunch-controllers
+    - name: zmk-fingerpunch-controllers
       remote: sadekbaroudi
       revision: main
       import: config/deps.yml
