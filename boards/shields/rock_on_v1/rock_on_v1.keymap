@@ -13,9 +13,9 @@
 #define MEDIA   4
 #define WINNAV  5
 
-# &caps_word {
-#     continue-list = <UNDERSCORE MINUS>;
-# };
+ &caps_word {
+     continue-list = <UNDERSCORE MINUS>;
+ };
 
 / {
     combos {
